@@ -5,11 +5,14 @@ __pycache__/
 
 # Android
 .gradle/
+.idea/
 build/
 local.properties
 *.apk
+
 
 # Dataset
 dataset_raw/
 processed_dataset/
 filtered_dataset/
+
