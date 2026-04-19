@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Android
+.gradle/
+build/
+local.properties
+*.apk
+
+# Dataset
+dataset_raw/
+processed_dataset/
+filtered_dataset/
